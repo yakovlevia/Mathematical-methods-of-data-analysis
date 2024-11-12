@@ -1,0 +1,2 @@
+Best Parameters,Best F1 Score
+"{'classifier__beta': 0, 'classifier__gamma': 0, 'classifier__learning_rate': 0.001, 'classifier__max_iter': 6000, 'classifier__tolerance': 0.001, 'vectorizer__max_features': 3000}",0.7238891189044763
